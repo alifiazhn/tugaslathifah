@@ -1,0 +1,66 @@
+body {
+	background-image: url(/latihan/images/tmii.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	background-color: white;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 3px 3px 5px greenyellow;
+}
+
+h2 {
+	background-color: lightblue;
+	color: navy;
+	text-align: left;
+	text-decoration: underline wavy magenta;
+}
+
+p {
+	color: black;
+	text-align: justify;
+	font-size: 20px;
+	text-decoration: none;
+	text-indent: 32px;
+	line-height: 1.6;
+}
+
+ol {
+	color: black;
+	text-align: justify;
+	font-size: 20px;
+	text-decoration: none;
+	text-indent: 32px;
+}
+
+li {
+	color: black;
+	text-align: justify;
+	font-size: 20px;
+	text-decoration: none;
+	text-indent: 32px;
+}
+
+.warna {
+	color: red;
+}
+
+.ex {
+	font-size: 20px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+
+div {
+	background-color: white;
+	color: rgb(0, 255, 0);
+	text-align: justify;
+	padding: 35px;
+	margin: 100px;
+	height: 500px;
+}
